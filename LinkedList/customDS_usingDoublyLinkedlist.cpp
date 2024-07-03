@@ -1,7 +1,3 @@
-/*
-Data can be deleted from anywhere of the list, from head, tail, adjust the currInd according to the deletion
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 
